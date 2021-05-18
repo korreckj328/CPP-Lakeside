@@ -1,0 +1,6 @@
+#ifndef CPP_LAKESIDE_LIBRARY_H
+#define CPP_LAKESIDE_LIBRARY_H
+
+void hello();
+
+#endif //CPP_LAKESIDE_LIBRARY_H
